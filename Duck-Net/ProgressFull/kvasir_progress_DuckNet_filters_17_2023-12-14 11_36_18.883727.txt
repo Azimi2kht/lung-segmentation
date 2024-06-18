@@ -1,0 +1,185 @@
+epoch: 0
+val_loss: 0.65623724
+test_loss: 0.6208231
+
+
+epoch: 1
+val_loss: 0.61390686
+test_loss: 0.57008326
+
+
+epoch: 2
+val_loss: 0.61209965
+test_loss: 0.5703418
+
+
+epoch: 3
+val_loss: 0.5612775
+test_loss: 0.4947381
+
+
+epoch: 4
+val_loss: 0.57614505
+test_loss: 0.49988955
+
+
+epoch: 5
+val_loss: 0.50044745
+test_loss: 0.45137477
+
+
+epoch: 6
+val_loss: 0.5201505
+test_loss: 0.4609741
+
+
+epoch: 7
+val_loss: 0.46765453
+test_loss: 0.42584068
+
+
+epoch: 8
+val_loss: 0.4581777
+test_loss: 0.43838233
+
+
+epoch: 9
+val_loss: 0.48362768
+test_loss: 0.43843818
+
+
+epoch: 10
+val_loss: 0.45983702
+test_loss: 0.4064126
+
+
+epoch: 11
+val_loss: 0.45102286
+test_loss: 0.42341214
+
+
+epoch: 12
+val_loss: 0.45024884
+test_loss: 0.3934452
+
+
+epoch: 13
+val_loss: 0.39209312
+test_loss: 0.35237646
+
+
+epoch: 14
+val_loss: 0.375345
+test_loss: 0.34467697
+
+
+epoch: 15
+val_loss: 0.3825559
+test_loss: 0.29671413
+
+
+epoch: 16
+val_loss: 0.33972865
+test_loss: 0.33890152
+
+
+epoch: 17
+val_loss: 0.3741756
+test_loss: 0.3198266
+
+
+epoch: 18
+val_loss: 0.35306627
+test_loss: 0.28321362
+
+
+epoch: 19
+val_loss: 0.334176
+test_loss: 0.28350443
+
+
+epoch: 20
+val_loss: 0.31711555
+test_loss: 0.31066245
+
+
+epoch: 21
+val_loss: 0.3164662
+test_loss: 0.28668934
+
+
+epoch: 22
+val_loss: 0.31948197
+test_loss: 0.2704237
+
+
+epoch: 23
+val_loss: 0.27309006
+test_loss: 0.25173932
+
+
+epoch: 24
+val_loss: 0.3394971
+test_loss: 0.28230917
+
+
+epoch: 25
+val_loss: 0.27298564
+test_loss: 0.26791155
+
+
+epoch: 26
+val_loss: 0.2830122
+test_loss: 0.24999177
+
+
+epoch: 27
+val_loss: 0.32616454
+test_loss: 0.26009858
+
+
+epoch: 28
+val_loss: 0.2668454
+test_loss: 0.24970722
+
+
+epoch: 29
+val_loss: 0.2993965
+test_loss: 0.24684542
+
+
+epoch: 30
+val_loss: 0.25887173
+test_loss: 0.2188456
+
+
+epoch: 31
+val_loss: 0.2801262
+test_loss: 0.25452316
+
+
+epoch: 32
+val_loss: 0.2720666
+test_loss: 0.24006891
+
+
+epoch: 33
+val_loss: 0.29051995
+test_loss: 0.2339474
+
+
+epoch: 34
+val_loss: 0.26695478
+test_loss: 0.20904869
+
+
+epoch: 35
+val_loss: 0.2657203
+test_loss: 0.2390325
+
+
+epoch: 36
+val_loss: 0.25834936
+test_loss: 0.21057773
+
+
