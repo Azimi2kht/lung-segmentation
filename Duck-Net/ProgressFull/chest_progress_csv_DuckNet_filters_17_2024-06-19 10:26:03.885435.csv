@@ -1,0 +1,2 @@
+epoch;classification_output_loss;loss;segmentation_output_loss;val_classification_output_loss;val_loss;val_segmentation_output_loss
+0;1.1778371334075928;1.7599174976348877;0.5820802450180054;0.7055205702781677;1.3421494960784912;0.6366289258003235

@@ -1,5 +1,6 @@
 import keras.backend as K
 import tensorflow as tf
+from tensorflow.keras.losses import CategoricalCrossentropy
 
 
 def dice_metric_loss(ground_truth, predictions, smooth=1e-6):
@@ -10,6 +11,10 @@ def dice_metric_loss(ground_truth, predictions, smooth=1e-6):
     intersection = K.sum(predictions * ground_truth)
     union = K.sum(predictions) + K.sum(ground_truth)
 
-    dice = (2. * intersection + smooth) / (union + smooth)
+    dice = (2.0 * intersection + smooth) / (union + smooth)
 
     return 1 - dice
+
+
+def classification_loss(ground_truth, predictions):
+    return tf.keras.losses.sparse_categorical_crossentropy(ground_truth, predictions)
