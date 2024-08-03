@@ -1,4 +1,9 @@
-Duck-Net/ModelSaveTensorFlow/*
+#data
 RSUA Chest X-Ray Dataset.zip
 RSUA Chest X-Ray Dataset/
 
+# python
+__pycache__/
+
+# DUCK-Net
+Duck-Net/ModelSaveTensorFlow/*
