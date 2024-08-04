@@ -7,3 +7,8 @@ __pycache__/
 
 # DUCK-Net
 Duck-Net/ModelSaveTensorFlow/*
+Duck-Net/ProgressFull/*
+
+# notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
