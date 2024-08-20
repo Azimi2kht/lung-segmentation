@@ -1,5 +1,5 @@
 # Segmentation of Lung in Chest X-ray Dataset
-In this project I used [DUCK-Net](https://github.com/RazvanDu/DUCK-Net) model, a SOT model in segmentation to segment lung in [Chest X-ray dataset](https://www.data-in-brief.com/article/S2352-3409(23)00725-4/fulltext).
+In this project I used [DUCK-Net](https://github.com/RazvanDu/DUCK-Net) model, a SOT model in segmentation to segment lung in [Chest X-ray dataset](https://www.data-in-brief.com/article/S2352-3409(23)00725-4/fulltext). I achieved a Dice score of `%96.4` on the test set.
 
 ## Screenshots
 In order from left to right: X-ray scan, Ground Truth, Model output
