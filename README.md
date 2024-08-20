@@ -3,5 +3,5 @@ In this project I used [DUCK-Net](https://github.com/RazvanDu/DUCK-Net) model, a
 
 ## Screenshots
 In order from left to right: X-ray scan, Ground Truth, Model output
-![model outupt]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/user-attachments/assets/67c44d65-bdcc-4a15-a4d4-c82fd279d107))
+![model outupt](https://github.com/user-attachments/assets/67c44d65-bdcc-4a15-a4d4-c82fd279d107)
 
